@@ -3,11 +3,11 @@
 
 ## What idea(s) do you have for your final project?
 
-I have been thinking about making a pong game for the longest time, but I wanted to make it more difficult. Like every time the ball returns it gets slightly faster, and after a certain amount of tine it shakes the screen to make it more innacurate. 
+I have been thinking about making a pong game for the longest time, but I wanted to make it more difficult. Like every time the ball returns it gets slightly faster, and after a certain amount of tine it shakes the screen to make it more innacurate. As well as possibly some other things. But I want to make it a more difficult version of the classic game. 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-I plan to do this on my own as go now. 
+I plan to do this on my own as of now. 
 
 ## Do you have any questions of your own?
 
