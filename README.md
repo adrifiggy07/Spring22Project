@@ -21,3 +21,9 @@ I think maybe I shot too high and overestinmated what I could've gotten done, I 
 
 # Youtube link for project demo
 https://youtu.be/8vuJIMUIRG0
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+# Game Directions:
+Player 1: Move up with 'W' key, Down with 'S' key
+Player 2: Move up with 'Up' arrow key, Down with "Down" arrow key
+
+Play until one reaches 5 points.
