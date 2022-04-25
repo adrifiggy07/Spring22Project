@@ -10,7 +10,7 @@ Hongzheng Wang
 
 #### Project title
 
-Pong on Roids
+Speedy Pong
 
 ***
 
