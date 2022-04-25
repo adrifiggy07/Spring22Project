@@ -139,7 +139,7 @@ while True:
         ball_dx = ball_dx * -1.5
         
 
-    # Scenario if Player A wins
+    # Scenario if Player 1 wins
     if player1Score >= 5:
         winPen = turtle.Turtle()
         winPen.speed(0)
@@ -150,7 +150,7 @@ while True:
         winPen.write("Player 1 Wins!!!!!!",align="center",font=('Arial',24,"normal"))
         break
     
-    #Scenario if Player B wins
+    #Scenario if Player 2 wins
     if player2Score >= 5:
         winPen = turtle.Turtle()
         winPen.speed(0)
